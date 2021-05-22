@@ -1,2 +1,2 @@
-# GitBook
-Gitbook repository
+# Initial page
+
